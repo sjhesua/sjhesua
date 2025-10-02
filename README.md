@@ -1,4 +1,25 @@
-# Hi there 👋
+# Hi there 👋 I'm Jhesua Sifontes
+
+
+<div align="center">
+<p align="center">
+  <em>💻 Higher Technician in Information Systems <br>
+  </em>
+</p>
+</div>
+
+<!--- A B O U T   M E --->
+
+<h4 align="center">
+    🚀 10+ Years Building Solutions
+With over 10 years in the software development industry, I have cultivated a strong foundation in the design, development, and implementation of web and desktop applications.
+
+I specialize in taking projects from concept to final deployment, ensuring performance, maintainability, and quality in every line of code.<br>
+</h4>
+
+#
+
+
 <p align="center">
   <h3 align="center">🔥 Backend skills 🔥</h3>
   <a href="https://sjhesua.com">
