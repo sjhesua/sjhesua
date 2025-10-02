@@ -2,14 +2,42 @@
 
 <!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
 
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">🔥 Backend skills 🔥</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,python,html,js,css,wordpress,md,graphql,atom,discord" /><br>
-    <img src="https://skillicons.dev/icons?i=heroku,bootstrap,mongodb,mysql,blender,linux,vscode,ps,ae,pr,ai," />
-  </a>
-</p><br>
+  
+  <g transform="translate(300, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(600, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(900, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(1200, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(1500, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(1800, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(2100, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(2400, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(3000, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+  <g transform="translate(3300, 0)>
+    <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
+  <g/>
+</p>
+<br>
 
 <h2 align="center">Learning</h2>
 <p align="center">
