@@ -26,8 +26,10 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://www.sjhesua.com/images/svg/Flask.svg"> 
+  <table>
+    <tr><td align="center"><b>Ansible</b></td></tr>
+    <tr><td align="center"><img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg"></td></tr>
+  </table>
 </td>
 
 <td align="center" width="20%">
