@@ -1,10 +1,6 @@
 # Hi there 👋
-
-<!--- L A N G U A G E - F R A M E W O R K S -  T O O L S --->
-
-<h2 align="center">🔥 Backend skills 🔥</h2>
-<br>
 <p align="center">
+  <h3 align="center">🔥 Backend skills 🔥</h3>
   <a href="https://sjhesua.com">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
       <g transform="translate(300, 0)">
@@ -40,10 +36,11 @@
     </svg>
   </a>
 </p>
-<br>
-<h2 align="center">🔥 Frontend skills 🔥</h2>
-<br>
+
+#
+
 <p align="center">
+  <h3 align="center">🔥 Frontend skills 🔥</h3>
   <a href="https://sjhesua.com">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
       <g transform="translate(300, 0)">
@@ -70,10 +67,11 @@
     </svg>
   </a>
 </p>
-<br>
-<h2 align="center">🔥 Tools 🔥</h2>
-<br>
+
+#
+
 <p align="center">
+  <h3 align="center">🔥 Tools 🔥</h3>
   <a href="https://sjhesua.com">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
       <g transform="translate(300, 0)">
