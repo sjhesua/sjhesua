@@ -80,19 +80,22 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
             <img width="32px" src="https://www.sjhesua.com/images/svg/Next.js.svg" alt="Next.js"><br>Next.js
           </td>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/React.svg" alt="React"><br>React
-          </td>
-          <td align="center">
             <img width="32px" src="https://www.sjhesua.com/images/svg/HTML5.svg" alt="HTML5"><br>HTML
           </td>
           <td align="center">
             <img width="32px" src="https://www.sjhesua.com/images/svg/css3.svg" alt="CSS3"><br>CSS
           </td>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/TailwindCSS.svg" alt="TailwindCSS"><br>Tailwind
+            <img width="32px" src="https://www.sjhesua.com/images/svg/TailwindCSS.svg" alt="Tailwind CSS"><br>Tailwind
           </td>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/GodotEngine.svg" alt="Godot Engine"><br>Godot
+            <img width="32px" src="https://www.sjhesua.com/images/svg/JavaScript.svg" alt="JavaScript"><br>JavaScript
+          </td>
+          <td align="center">
+            <img width="32px" src="https://www.sjhesua.com/images/svg/React.svg" alt="React"><br>React
+          </td>
+          <td align="center">
+            <img width="32px" src="https://www.sjhesua.com/images/svg/GodotEngine.svg" alt="Godot Engine"><br>GodotEngine
           </td>
         </tr>
       </table>
