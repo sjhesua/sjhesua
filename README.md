@@ -21,7 +21,7 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 
 
 <p align="center">
-  <h3 align="center">🔥 Backend skills 🔥</h3>
+  <h3 align="center">⚙️ Backend skills ⚙️</h3>
   <a href="https://sjhesua.com">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
       <g transform="translate(300, 0)">
@@ -61,7 +61,7 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 #
 
 <p align="center">
-  <h3 align="center">🔥 Frontend skills 🔥</h3>
+  <h3 align="center">💻 Frontend skills 💻</h3>
   <a href="https://sjhesua.com">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
       <g transform="translate(300, 0)">
@@ -92,7 +92,7 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 #
 
 <p align="center">
-  <h3 align="center">🔥 Tools 🔥</h3>
+  <h3 align="center">🛠️ Tools 🛠️</h3>
   <a href="https://sjhesua.com">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
       <g transform="translate(300, 0)">
