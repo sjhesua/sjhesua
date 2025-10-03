@@ -1,9 +1,11 @@
 # Hi there 👋 I'm Jhesua Sifontes
 
+<div>
 <a href="https://sjhesua.com"> 
- Check out my portfolio <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWplNjIyd3VkcW1yeDl3NG41aDlnaGRmZ3QyeGJzODR2Yml5YWdlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuzTZSoYDOQOhL1A8x/giphy.gif" width="60" />
+ Check out my portfolio 
 </a>
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWplNjIyd3VkcW1yeDl3NG41aDlnaGRmZ3QyeGJzODR2Yml5YWdlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuzTZSoYDOQOhL1A8x/giphy.gif" width="60" />
+</div>
 <div align="center">
 <br>
 <p align="center">
