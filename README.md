@@ -30,19 +30,31 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
       <table>
         <tr>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/php-logo-white.svg" alt="PHP"><br>php
+            <img width="32px" src="https://www.sjhesua.com/images/svg/php-logo-white.svg" alt="PHP"><br>PHP
+          </td>
+          <td align="center">
+            <img width="32px" src="https://www.sjhesua.com/images/svg/Node.js.svg" alt="Node.js"><br>Node.js
+          </td>
+          <td align="center">
+            <img width="32px" src="https://www.sjhesua.com/images/svg/MySQL.svg" alt="MySQL"><br>MySQL
+          </td>
+          <td align="center">
+            <img width="32px" src="https://www.sjhesua.com/images/svg/MongoDB.svg" alt="MongoDB"><br>MongoDB
+          </td>
+          <td align="center">
+            <img width="32px" src="https://www.sjhesua.com/images/svg/PostgresSQL.svg" alt="PostgreSQL"><br>PostgreSQL
           </td>
           <td align="center">
             <img width="32px" src="https://www.sjhesua.com/images/svg/Python.svg" alt="Python"><br>Python
           </td>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/Node.js.svg" alt="Node.js"><br>JavaScript
+            <img width="32px" src="https://www.sjhesua.com/images/svg/Django.svg" alt="Django"><br>Django
           </td>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/MySQL.svg" alt="MySQL"><br>SQL
+            <img width="32px" src="https://www.sjhesua.com/images/svg/DjangoREST.svg" alt="Django REST"><br>Django REST
           </td>
           <td align="center">
-            <img width="32px" src="https://www.sjhesua.com/images/svg/MongoDB.svg" alt="MongoDB"><br>MongoDB
+            <img width="32px" src="https://www.sjhesua.com/images/svg/Flask.svg" alt="Flask"><br>Flask
           </td>
           <td align="center">
             <img width="32px" src="https://www.sjhesua.com/images/svg/NGINX.svg" alt="NGINX"><br>NGINX
