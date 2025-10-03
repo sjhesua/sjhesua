@@ -56,29 +56,33 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 <p align="center">
   <h3 align="center">💻 Frontend skills 💻</h3>
   <a href="https://sjhesua.com">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
-      <g transform="translate(300, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/astro-public.svg">
-      </g>
-      <g transform="translate(600, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/Next.js.svg">
-      </g>
-      <g transform="translate(900, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/HTML5.svg">
-      </g>
-      <g transform="translate(1200, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/css3.svg">
-      </g>
-      <g transform="translate(1500, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/TailwindCSS.svg">
-      </g>
-      <g transform="translate(1800, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/React.svg">
-      </g>
-      <g transform="translate(2100, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/GodotEngine.svg">
-      </g>
-    </svg>
+   <div style="overflow-x: auto; white-space: nowrap;">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/astro-public.svg" alt="Astro"><br>Astro
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/Next.js.svg" alt="Next.js"><br>Next.js
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/React.svg" alt="React"><br>React
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/HTML5.svg" alt="HTML5"><br>HTML
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/css3.svg" alt="CSS3"><br>CSS
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/TailwindCSS.svg" alt="TailwindCSS"><br>Tailwind
+      </td>
+      <td align="center">
+        <img width="32px" src="https://www.sjhesua.com/images/svg/GodotEngine.svg" alt="Godot Engine"><br>Godot
+      </td>
+    </tr>
+  </table>
+</div>
   </a>
 </p>
 
