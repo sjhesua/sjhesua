@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jhesua Sifontes
 
 <a href="https://sjhesua.com"> 
-  <h3 align="center">Check out my portfolio</h3>
+ Check out my portfolio
 </a>
 
 <div align="center">
@@ -25,40 +25,30 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 
 <p align="center">
   <h3 align="center">⚙️ Backend skills ⚙️</h3>
-  <a href="https://sjhesua.com">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666.75" height="48" viewBox="0 0 3556 256" fill="none" version="1.1">
-      <g transform="translate(300, 0)">
-        <img height="60px"  src="https://www.sjhesua.com/images/svg/php-logo-white.svg">
-      </g>
-      <g transform="translate(600, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/Node.js.svg">
-      </g>
-      <g transform="translate(900, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/MySQL.svg">
-      </g>
-      <g transform="translate(1200, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/MongoDB.svg">
-      </g>
-      <g transform="translate(1500, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/PostgresSQL.svg">
-      </g>
-      <g transform="translate(1800, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/Python.svg">
-      </g>
-      <g transform="translate(2100, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/Django.svg">
-      </g>
-      <g transform="translate(2400, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/DjangoREST.svg">
-      </g>
-      <g transform="translate(3000, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/Flask.svg">
-      </g>
-      <g transform="translate(3300, 0)">
-        <img height="60px" src="https://www.sjhesua.com/images/svg/NGINX.svg">
-      </g>
-    </svg>
-  </a>
+  <div style="overflow-x: auto; white-space: nowrap;">
+    <table>
+      <tr>
+        <td align="center">
+          <img width="32px" src="https://www.sjhesua.com/images/svg/php-logo-white.svg" alt="PHP"><br>php
+        </td>
+        <td align="center">
+          <img width="32px" src="https://www.sjhesua.com/images/svg/Python.svg" alt="Python"><br>Python
+        </td>
+        <td align="center">
+          <img width="32px" src="https://www.sjhesua.com/images/svg/Node.js.svg" alt="Node.js"><br>JavaScript
+        </td>
+        <td align="center">
+          <img width="32px" src="https://www.sjhesua.com/images/svg/MySQL.svg" alt="MySQL"><br>SQL
+        </td>
+        <td align="center">
+          <img width="32px" src="https://www.sjhesua.com/images/svg/MongoDB.svg" alt="MongoDB"><br>MongoDB
+        </td>
+        <td align="center">
+          <img width="32px" src="https://www.sjhesua.com/images/svg/NGINX.svg" alt="NGINX"><br>NGINX
+        </td>
+      </tr>
+    </table>
+  </div>
 </p>
 
 #
