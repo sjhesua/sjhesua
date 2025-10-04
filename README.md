@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jhesua Sifontes
 
 <div>
-<a href="https://sjhesua.com"> 
+<a href="https://www.sjhesua.com"> 
  Check out my portfolio 
 </a>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWplNjIyd3VkcW1yeDl3NG41aDlnaGRmZ3QyeGJzODR2Yml5YWdlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuzTZSoYDOQOhL1A8x/giphy.gif" width="60" />
@@ -28,7 +28,7 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 
 <p align="center">
   <h3 align="center">⚙️ Backend skills ⚙️</h3>
-  <a href="https://sjhesua.com">
+  <a href="https://www.sjhesua.com">
     <div style="overflow-x: auto; white-space: nowrap;">
       <table>
         <tr>
@@ -72,7 +72,7 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 
 <p align="center">
   <h3 align="center">💻 Frontend skills 💻</h3>
-  <a href="https://sjhesua.com">
+  <a href="https://www.sjhesua.com">
     <div style="overflow-x: auto; white-space: nowrap;">
       <table>
         <tr>
@@ -110,7 +110,7 @@ I specialize in taking projects from concept to final deployment, ensuring perfo
 
 <p align="center">
   <h3 align="center">🛠️ Tools 🛠️</h3>
-  <a href="https://sjhesua.com">
+  <a href="https://www.sjhesua.com">
     <div style="overflow-x: auto; white-space: nowrap;">
       <table>
         <tr>
